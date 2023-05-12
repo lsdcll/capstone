@@ -1,0 +1,1752 @@
+[28-Nov-2020 00:38:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:39:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:40:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:40:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:42:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:42:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 16
+[28-Nov-2020 00:42:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 17
+[28-Nov-2020 00:42:09 UTC] Made it !!!
+[28-Nov-2020 00:43:43 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 39
+[28-Nov-2020 00:43:51 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 39
+[28-Nov-2020 00:44:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:44:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 16
+[28-Nov-2020 00:44:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 17
+[28-Nov-2020 00:44:03 UTC] Made it !!!
+[28-Nov-2020 00:44:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:44:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 16
+[28-Nov-2020 00:44:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 17
+[28-Nov-2020 00:44:05 UTC] Made it !!!
+[28-Nov-2020 00:44:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:44:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 16
+[28-Nov-2020 00:44:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 17
+[28-Nov-2020 00:44:06 UTC] Made it !!!
+[28-Nov-2020 00:44:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:44:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 16
+[28-Nov-2020 00:44:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 17
+[28-Nov-2020 00:44:18 UTC] Made it !!!
+[28-Nov-2020 00:45:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 2
+[28-Nov-2020 00:45:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 16
+[28-Nov-2020 00:45:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcarroll/public_html/cmpe2500/capstone/capstone_main.php:1) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 17
+[28-Nov-2020 00:45:58 UTC] Made it !!!
+[28-Nov-2020 00:54:15 UTC] Made it !!!
+[28-Nov-2020 00:55:07 UTC] Made it !!!
+[28-Nov-2020 00:59:51 UTC] Made it !!!
+[28-Nov-2020 01:00:23 UTC] Made it !!!
+[28-Nov-2020 01:00:26 UTC] Made it !!!
+[28-Nov-2020 01:00:58 UTC] Made it !!!
+[28-Nov-2020 01:04:09 UTC] Made it !!!
+[28-Nov-2020 01:04:31 UTC] Made it !!!
+[28-Nov-2020 01:04:34 UTC] Made it !!!
+[28-Nov-2020 01:04:43 UTC] Made it !!!
+[28-Nov-2020 01:13:36 UTC] Query Recipes
+[28-Nov-2020 01:15:44 UTC] Query Recipes
+[28-Nov-2020 01:15:44 UTC] Query successful 1 rows returned
+[30-Nov-2020 23:07:54 UTC] Query Recipes
+[30-Nov-2020 23:07:54 UTC] Query successful 1 rows returned
+[30-Nov-2020 23:35:12 UTC] Query Recipes
+[30-Nov-2020 23:35:12 UTC] Query successful 1 rows returned
+[30-Nov-2020 23:53:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 124
+[01-Dec-2020 00:13:50 UTC] Query Ing
+[01-Dec-2020 00:13:50 UTC] Query select NAME, QUANTITY, TankID as 'Tank Number'from Ing  failed
+[01-Dec-2020 00:21:51 UTC] Query Ing
+[01-Dec-2020 00:21:51 UTC] Query select NAME, QUANTITY, TankID as 'Tank' from Ing  failed
+[01-Dec-2020 00:22:00 UTC] TO ADD TO DB: testing :  : 
+[01-Dec-2020 00:22:00 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('testing', NULL, '', '')
+[01-Dec-2020 00:24:01 UTC] Query Ing
+[01-Dec-2020 00:24:01 UTC] Query select NAME, QUANTITY, TankID as 'Tank' from Ing  failed
+[01-Dec-2020 00:24:07 UTC] TO ADD TO DB: bleh :  : 
+[01-Dec-2020 00:24:07 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('bleh', NULL, '', '')
+[01-Dec-2020 00:24:56 UTC] Query Ing
+[01-Dec-2020 00:24:56 UTC] Query select NAME, QUANTITY, TankID as 'Tank' from Ingredients  failed
+[01-Dec-2020 00:25:03 UTC] TO ADD TO DB: a :  : 
+[01-Dec-2020 00:25:03 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('a', NULL, '', '')
+[01-Dec-2020 00:25:30 UTC] Query Ing
+[01-Dec-2020 00:25:30 UTC] Query successful 2 rows returned
+[01-Dec-2020 00:25:56 UTC] TO ADD TO DB: a :  : 
+[01-Dec-2020 00:25:56 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('a', NULL, '', '')
+[01-Dec-2020 00:26:59 UTC] Query Ing
+[01-Dec-2020 00:26:59 UTC] Query successful 2 rows returned
+[01-Dec-2020 00:27:06 UTC] TO ADD TO DB: a :  : 
+[01-Dec-2020 00:27:06 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('a', NULL, '', '')
+[01-Dec-2020 00:28:02 UTC] Query Ing
+[01-Dec-2020 00:28:02 UTC] Query successful 2 rows returned
+[01-Dec-2020 00:28:04 UTC] TO ADD TO DB: a :  : 
+[01-Dec-2020 00:28:04 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('a', NULL, '', '')
+[01-Dec-2020 00:29:15 UTC] Query Ing
+[01-Dec-2020 00:29:15 UTC] Query successful 2 rows returned
+[01-Dec-2020 00:29:17 UTC] not loaded.....
+[01-Dec-2020 00:29:17 UTC] TO ADD TO DB: a : NULL : NULL
+[01-Dec-2020 00:29:17 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('a', NULL, 'NULL', 'NULL')
+[01-Dec-2020 00:30:54 UTC] Query Ing
+[01-Dec-2020 00:30:54 UTC] Query successful 2 rows returned
+[01-Dec-2020 00:31:04 UTC] TO ADD TO DB: whiskey : 1000 : 3
+[01-Dec-2020 00:31:04 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('whiskey', NULL, '1000', '3')
+[04-Dec-2020 01:42:45 UTC] Query Ing
+[04-Dec-2020 01:42:45 UTC] Query successful 4 rows returned
+[04-Dec-2020 01:42:48 UTC] Query Recipes
+[04-Dec-2020 01:42:48 UTC] Query successful 1 rows returned
+[04-Dec-2020 01:42:49 UTC] Query Ing
+[04-Dec-2020 01:42:49 UTC] Query successful 4 rows returned
+[04-Dec-2020 02:09:42 UTC] Query Recipes
+[04-Dec-2020 02:09:42 UTC] Query successful 1 rows returned
+[04-Dec-2020 02:09:44 UTC] Query Ing
+[04-Dec-2020 02:09:44 UTC] Query successful 4 rows returned
+[04-Dec-2020 02:10:28 UTC] Query Recipes
+[04-Dec-2020 02:10:28 UTC] Query successful 1 rows returned
+[04-Dec-2020 02:10:29 UTC] Query Ing
+[04-Dec-2020 02:10:29 UTC] Query successful 4 rows returned
+[04-Dec-2020 02:50:04 UTC] Query Recipes
+[04-Dec-2020 02:50:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 02:50:05 UTC] Query Ing
+[04-Dec-2020 02:50:05 UTC] Query successful 3 rows returned
+[04-Dec-2020 02:51:02 UTC] TO ADD TO DB: pboi : 69 : 5
+[04-Dec-2020 02:51:02 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('pboi', NULL, '69', '5')
+[04-Dec-2020 02:51:02 UTC] Query Ing
+[04-Dec-2020 02:51:02 UTC] Query successful 4 rows returned
+[04-Dec-2020 02:51:07 UTC] Query Ing
+[04-Dec-2020 02:51:07 UTC] Query successful 4 rows returned
+[04-Dec-2020 03:38:15 UTC] Query Ing
+[04-Dec-2020 03:38:15 UTC] Query successful 5 rows returned
+[04-Dec-2020 03:38:17 UTC] UPDATE Ingredients SET QUANTITY =1, Tank_ID =1 WHERE Ingredients.ID = 20
+[04-Dec-2020 03:38:17 UTC] Query Ing
+[04-Dec-2020 03:38:17 UTC] Query successful 5 rows returned
+[04-Dec-2020 03:38:23 UTC] UPDATE Ingredients SET QUANTITY = NULL, Tank_ID = NULL WHERE Ingredients.ID = 20
+[04-Dec-2020 03:38:23 UTC] Query Ing
+[04-Dec-2020 03:38:23 UTC] Query successful 5 rows returned
+[04-Dec-2020 03:39:21 UTC] not loaded.....
+[04-Dec-2020 03:39:21 UTC] TO ADD TO DB: Whiskey : NULL : NULL
+[04-Dec-2020 03:39:21 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Whiskey', NULL, NULL, NULL)
+[04-Dec-2020 03:39:21 UTC] Query Ing
+[04-Dec-2020 03:39:21 UTC] Query successful 6 rows returned
+[04-Dec-2020 03:39:28 UTC] UPDATE Ingredients SET QUANTITY =1000, Tank_ID =3 WHERE Ingredients.ID = 25
+[04-Dec-2020 03:39:28 UTC] Query Ing
+[04-Dec-2020 03:39:28 UTC] Query successful 6 rows returned
+[04-Dec-2020 03:40:18 UTC] UPDATE Ingredients SET QUANTITY = NULL, Tank_ID = NULL WHERE Ingredients.ID = 25
+[04-Dec-2020 03:40:18 UTC] Query Ing
+[04-Dec-2020 03:40:18 UTC] Query successful 6 rows returned
+[04-Dec-2020 03:40:23 UTC] UPDATE Ingredients SET QUANTITY =1000, Tank_ID =3 WHERE Ingredients.ID = 25
+[04-Dec-2020 03:40:23 UTC] Query Ing
+[04-Dec-2020 03:40:23 UTC] Query successful 6 rows returned
+[04-Dec-2020 06:06:18 UTC] Query Recipes
+[04-Dec-2020 06:06:18 UTC] Query successful 1 rows returned
+[04-Dec-2020 06:06:18 UTC] Query Ing
+[04-Dec-2020 06:06:18 UTC] Query successful 4 rows returned
+[04-Dec-2020 06:15:49 UTC] Query Recipes
+[04-Dec-2020 06:15:49 UTC] Query successful 1 rows returned
+[04-Dec-2020 06:15:49 UTC] Query Ing
+[04-Dec-2020 06:15:49 UTC] Query successful 4 rows returned
+[04-Dec-2020 06:15:52 UTC] Query Recipes
+[04-Dec-2020 06:15:52 UTC] Query successful 1 rows returned
+[04-Dec-2020 06:15:52 UTC] Query Ing
+[04-Dec-2020 06:15:52 UTC] Query successful 4 rows returned
+[04-Dec-2020 06:15:55 UTC] Query Recipes
+[04-Dec-2020 06:15:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 06:15:55 UTC] Query Ing
+[04-Dec-2020 06:15:55 UTC] Query successful 4 rows returned
+[04-Dec-2020 06:15:57 UTC] Query Recipes
+[04-Dec-2020 06:15:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 06:15:57 UTC] Query Ing
+[04-Dec-2020 06:15:57 UTC] Query successful 4 rows returned
+[04-Dec-2020 06:15:59 UTC] Query Ing
+[04-Dec-2020 06:15:59 UTC] Query successful 4 rows returned
+[04-Dec-2020 06:15:59 UTC] Query Recipes
+[04-Dec-2020 06:15:59 UTC] Query successful 1 rows returned
+[04-Dec-2020 07:03:54 UTC] Query Ing
+[04-Dec-2020 07:03:54 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:03:54 UTC] Query Recipes
+[04-Dec-2020 07:03:54 UTC] Query successful 1 rows returned
+[04-Dec-2020 07:03:55 UTC] Query Recipes
+[04-Dec-2020 07:03:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 07:04:13 UTC] Query Ing
+[04-Dec-2020 07:04:13 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:04:14 UTC] Query Recipes
+[04-Dec-2020 07:04:14 UTC] Query successful 1 rows returned
+[04-Dec-2020 07:04:24 UTC] Query Ing
+[04-Dec-2020 07:04:24 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:04:24 UTC] Query Recipes
+[04-Dec-2020 07:04:24 UTC] Query successful 1 rows returned
+[04-Dec-2020 07:04:26 UTC] Query Recipes
+[04-Dec-2020 07:04:26 UTC] Query successful 1 rows returned
+[04-Dec-2020 07:08:35 UTC] Query Ing
+[04-Dec-2020 07:08:35 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:08:35 UTC] Query Recipes
+[04-Dec-2020 07:08:35 UTC] Query successful 1 rows returned
+[04-Dec-2020 07:08:37 UTC] Query Recipes
+[04-Dec-2020 07:08:37 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:09:26 UTC] Query Ing
+[04-Dec-2020 07:09:26 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:09:26 UTC] Query Recipes
+[04-Dec-2020 07:09:26 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:09:33 UTC] Query Ing
+[04-Dec-2020 07:09:33 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:09:33 UTC] Query Recipes
+[04-Dec-2020 07:09:33 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:10:22 UTC] Query Ing
+[04-Dec-2020 07:10:22 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:10:22 UTC] Query Recipes
+[04-Dec-2020 07:10:22 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:18:30 UTC] Query Ing
+[04-Dec-2020 07:18:30 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:18:30 UTC] Query Recipes
+[04-Dec-2020 07:18:30 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:23:52 UTC] Query Ing
+[04-Dec-2020 07:23:52 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:23:52 UTC] Query Recipes
+[04-Dec-2020 07:23:52 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:49:25 UTC] Query Ing
+[04-Dec-2020 07:49:25 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:49:25 UTC] Query Recipes
+[04-Dec-2020 07:49:25 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:49:28 UTC] Made it !!!
+[04-Dec-2020 07:49:29 UTC] Query Recipes
+[04-Dec-2020 07:49:29 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:50:56 UTC] Query Ing
+[04-Dec-2020 07:50:56 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:50:56 UTC] Query Recipes
+[04-Dec-2020 07:50:56 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:51:07 UTC] Made it !!!
+[04-Dec-2020 07:51:07 UTC] Query Recipes
+[04-Dec-2020 07:51:07 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:52:10 UTC] Query Ing
+[04-Dec-2020 07:52:10 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:52:10 UTC] Query Recipes
+[04-Dec-2020 07:52:10 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:52:36 UTC] Query Ing
+[04-Dec-2020 07:52:36 UTC] Query successful 3 rows returned
+[04-Dec-2020 07:52:36 UTC] Query Recipes
+[04-Dec-2020 07:52:36 UTC] Query successful 0 rows returned
+[04-Dec-2020 07:52:43 UTC] Made it !!!
+[04-Dec-2020 07:52:43 UTC] Query Recipes
+[04-Dec-2020 07:52:43 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:02:55 UTC] Query Ing
+[04-Dec-2020 08:02:55 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:02:55 UTC] Query Recipes
+[04-Dec-2020 08:02:55 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:03:02 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 81
+[04-Dec-2020 08:03:02 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 84
+[04-Dec-2020 08:03:02 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 87
+[04-Dec-2020 08:03:02 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 90
+[04-Dec-2020 08:03:02 UTC] 
+[04-Dec-2020 08:03:02 UTC] PHP Warning:  mysqli::query(): Empty query in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 56
+[04-Dec-2020 08:03:02 UTC] Query Recipes
+[04-Dec-2020 08:03:02 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:04:08 UTC] Query Ing
+[04-Dec-2020 08:04:08 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:04:08 UTC] Query Recipes
+[04-Dec-2020 08:04:08 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:04:14 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 81
+[04-Dec-2020 08:04:14 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 85
+[04-Dec-2020 08:04:14 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 88
+[04-Dec-2020 08:04:14 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 91
+[04-Dec-2020 08:04:14 UTC] 
+[04-Dec-2020 08:04:14 UTC] PHP Warning:  mysqli::query(): Empty query in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 56
+[04-Dec-2020 08:04:14 UTC] Query Recipes
+[04-Dec-2020 08:04:14 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:06:28 UTC] Query Ing
+[04-Dec-2020 08:06:28 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:06:28 UTC] Query Recipes
+[04-Dec-2020 08:06:28 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:06:33 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '30', '100')
+[04-Dec-2020 08:06:33 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '30', '100')
+[04-Dec-2020 08:06:34 UTC] Query Recipes
+[04-Dec-2020 08:06:34 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:09:45 UTC] Query Ing
+[04-Dec-2020 08:09:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:09:45 UTC] Query Recipes
+[04-Dec-2020 08:09:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:10:01 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 85
+[04-Dec-2020 08:10:01 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 88
+[04-Dec-2020 08:10:01 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 91
+[04-Dec-2020 08:10:01 UTC] 
+[04-Dec-2020 08:10:01 UTC] PHP Warning:  mysqli::query(): Empty query in /home/lcarroll/public_html/cmpe2500/capstone/db.php on line 56
+[04-Dec-2020 08:10:02 UTC] Query Recipes
+[04-Dec-2020 08:10:02 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:44 UTC] Query Ing
+[04-Dec-2020 08:12:44 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:44 UTC] Query Recipes
+[04-Dec-2020 08:12:44 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:44 UTC] Query Ing
+[04-Dec-2020 08:12:44 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:44 UTC] Query Recipes
+[04-Dec-2020 08:12:44 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Ing
+[04-Dec-2020 08:12:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Recipes
+[04-Dec-2020 08:12:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Ing
+[04-Dec-2020 08:12:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Recipes
+[04-Dec-2020 08:12:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Ing
+[04-Dec-2020 08:12:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Recipes
+[04-Dec-2020 08:12:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Ing
+[04-Dec-2020 08:12:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Recipes
+[04-Dec-2020 08:12:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Ing
+[04-Dec-2020 08:12:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Recipes
+[04-Dec-2020 08:12:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Ing
+[04-Dec-2020 08:12:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:45 UTC] Query Recipes
+[04-Dec-2020 08:12:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Ing
+[04-Dec-2020 08:12:46 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Recipes
+[04-Dec-2020 08:12:46 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Ing
+[04-Dec-2020 08:12:46 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Recipes
+[04-Dec-2020 08:12:46 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Ing
+[04-Dec-2020 08:12:46 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Recipes
+[04-Dec-2020 08:12:46 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Ing
+[04-Dec-2020 08:12:46 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Recipes
+[04-Dec-2020 08:12:46 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Ing
+[04-Dec-2020 08:12:46 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Recipes
+[04-Dec-2020 08:12:46 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:46 UTC] Query Ing
+[04-Dec-2020 08:12:46 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Recipes
+[04-Dec-2020 08:12:47 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Ing
+[04-Dec-2020 08:12:47 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Recipes
+[04-Dec-2020 08:12:47 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Ing
+[04-Dec-2020 08:12:47 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Recipes
+[04-Dec-2020 08:12:47 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Ing
+[04-Dec-2020 08:12:47 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Recipes
+[04-Dec-2020 08:12:47 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Ing
+[04-Dec-2020 08:12:47 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Recipes
+[04-Dec-2020 08:12:47 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Ing
+[04-Dec-2020 08:12:47 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Recipes
+[04-Dec-2020 08:12:47 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:47 UTC] Query Ing
+[04-Dec-2020 08:12:47 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Recipes
+[04-Dec-2020 08:12:48 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Ing
+[04-Dec-2020 08:12:48 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Recipes
+[04-Dec-2020 08:12:48 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Ing
+[04-Dec-2020 08:12:48 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Recipes
+[04-Dec-2020 08:12:48 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Ing
+[04-Dec-2020 08:12:48 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Recipes
+[04-Dec-2020 08:12:48 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Ing
+[04-Dec-2020 08:12:48 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Recipes
+[04-Dec-2020 08:12:48 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Ing
+[04-Dec-2020 08:12:48 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:48 UTC] Query Recipes
+[04-Dec-2020 08:12:48 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Ing
+[04-Dec-2020 08:12:49 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Recipes
+[04-Dec-2020 08:12:49 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Ing
+[04-Dec-2020 08:12:49 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Recipes
+[04-Dec-2020 08:12:49 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Ing
+[04-Dec-2020 08:12:49 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Recipes
+[04-Dec-2020 08:12:49 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Ing
+[04-Dec-2020 08:12:49 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Recipes
+[04-Dec-2020 08:12:49 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Ing
+[04-Dec-2020 08:12:49 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Recipes
+[04-Dec-2020 08:12:49 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Ing
+[04-Dec-2020 08:12:49 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:49 UTC] Query Recipes
+[04-Dec-2020 08:12:49 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Ing
+[04-Dec-2020 08:12:50 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Recipes
+[04-Dec-2020 08:12:50 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Ing
+[04-Dec-2020 08:12:50 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Recipes
+[04-Dec-2020 08:12:50 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Ing
+[04-Dec-2020 08:12:50 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Recipes
+[04-Dec-2020 08:12:50 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Ing
+[04-Dec-2020 08:12:50 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Recipes
+[04-Dec-2020 08:12:50 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Ing
+[04-Dec-2020 08:12:50 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Recipes
+[04-Dec-2020 08:12:50 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:50 UTC] Query Ing
+[04-Dec-2020 08:12:50 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Recipes
+[04-Dec-2020 08:12:51 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Ing
+[04-Dec-2020 08:12:51 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Recipes
+[04-Dec-2020 08:12:51 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Ing
+[04-Dec-2020 08:12:51 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Recipes
+[04-Dec-2020 08:12:51 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Ing
+[04-Dec-2020 08:12:51 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Recipes
+[04-Dec-2020 08:12:51 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Ing
+[04-Dec-2020 08:12:51 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Recipes
+[04-Dec-2020 08:12:51 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Ing
+[04-Dec-2020 08:12:51 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Recipes
+[04-Dec-2020 08:12:51 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:51 UTC] Query Ing
+[04-Dec-2020 08:12:51 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Recipes
+[04-Dec-2020 08:12:52 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Ing
+[04-Dec-2020 08:12:52 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Recipes
+[04-Dec-2020 08:12:52 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Ing
+[04-Dec-2020 08:12:52 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Recipes
+[04-Dec-2020 08:12:52 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Ing
+[04-Dec-2020 08:12:52 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Recipes
+[04-Dec-2020 08:12:52 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Ing
+[04-Dec-2020 08:12:52 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Recipes
+[04-Dec-2020 08:12:52 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Ing
+[04-Dec-2020 08:12:52 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:52 UTC] Query Recipes
+[04-Dec-2020 08:12:52 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Ing
+[04-Dec-2020 08:12:53 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Recipes
+[04-Dec-2020 08:12:53 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Ing
+[04-Dec-2020 08:12:53 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Recipes
+[04-Dec-2020 08:12:53 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Ing
+[04-Dec-2020 08:12:53 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Recipes
+[04-Dec-2020 08:12:53 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Ing
+[04-Dec-2020 08:12:53 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Recipes
+[04-Dec-2020 08:12:53 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Ing
+[04-Dec-2020 08:12:53 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Recipes
+[04-Dec-2020 08:12:53 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Ing
+[04-Dec-2020 08:12:53 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:53 UTC] Query Recipes
+[04-Dec-2020 08:12:53 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Ing
+[04-Dec-2020 08:12:54 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Recipes
+[04-Dec-2020 08:12:54 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Ing
+[04-Dec-2020 08:12:54 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Recipes
+[04-Dec-2020 08:12:54 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Ing
+[04-Dec-2020 08:12:54 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Recipes
+[04-Dec-2020 08:12:54 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Ing
+[04-Dec-2020 08:12:54 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Recipes
+[04-Dec-2020 08:12:54 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Ing
+[04-Dec-2020 08:12:54 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Recipes
+[04-Dec-2020 08:12:54 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:54 UTC] Query Ing
+[04-Dec-2020 08:12:54 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Recipes
+[04-Dec-2020 08:12:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Ing
+[04-Dec-2020 08:12:55 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Recipes
+[04-Dec-2020 08:12:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Ing
+[04-Dec-2020 08:12:55 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Recipes
+[04-Dec-2020 08:12:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Ing
+[04-Dec-2020 08:12:55 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Recipes
+[04-Dec-2020 08:12:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Ing
+[04-Dec-2020 08:12:55 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Recipes
+[04-Dec-2020 08:12:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Ing
+[04-Dec-2020 08:12:55 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Recipes
+[04-Dec-2020 08:12:55 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:55 UTC] Query Ing
+[04-Dec-2020 08:12:55 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Recipes
+[04-Dec-2020 08:12:56 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Ing
+[04-Dec-2020 08:12:56 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Recipes
+[04-Dec-2020 08:12:56 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Ing
+[04-Dec-2020 08:12:56 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Recipes
+[04-Dec-2020 08:12:56 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Ing
+[04-Dec-2020 08:12:56 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Recipes
+[04-Dec-2020 08:12:56 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Ing
+[04-Dec-2020 08:12:56 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Recipes
+[04-Dec-2020 08:12:56 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Ing
+[04-Dec-2020 08:12:56 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:56 UTC] Query Recipes
+[04-Dec-2020 08:12:56 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Ing
+[04-Dec-2020 08:12:57 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Recipes
+[04-Dec-2020 08:12:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Ing
+[04-Dec-2020 08:12:57 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Recipes
+[04-Dec-2020 08:12:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Ing
+[04-Dec-2020 08:12:57 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Recipes
+[04-Dec-2020 08:12:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Ing
+[04-Dec-2020 08:12:57 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Recipes
+[04-Dec-2020 08:12:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Ing
+[04-Dec-2020 08:12:57 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Recipes
+[04-Dec-2020 08:12:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Ing
+[04-Dec-2020 08:12:57 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:57 UTC] Query Recipes
+[04-Dec-2020 08:12:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Ing
+[04-Dec-2020 08:12:58 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Recipes
+[04-Dec-2020 08:12:58 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Ing
+[04-Dec-2020 08:12:58 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Recipes
+[04-Dec-2020 08:12:58 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Ing
+[04-Dec-2020 08:12:58 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Recipes
+[04-Dec-2020 08:12:58 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Ing
+[04-Dec-2020 08:12:58 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Recipes
+[04-Dec-2020 08:12:58 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Ing
+[04-Dec-2020 08:12:58 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Recipes
+[04-Dec-2020 08:12:58 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:58 UTC] Query Ing
+[04-Dec-2020 08:12:58 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Recipes
+[04-Dec-2020 08:12:59 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Ing
+[04-Dec-2020 08:12:59 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Recipes
+[04-Dec-2020 08:12:59 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Ing
+[04-Dec-2020 08:12:59 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Recipes
+[04-Dec-2020 08:12:59 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Ing
+[04-Dec-2020 08:12:59 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Recipes
+[04-Dec-2020 08:12:59 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Ing
+[04-Dec-2020 08:12:59 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Recipes
+[04-Dec-2020 08:12:59 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Ing
+[04-Dec-2020 08:12:59 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Recipes
+[04-Dec-2020 08:12:59 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:12:59 UTC] Query Ing
+[04-Dec-2020 08:12:59 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Recipes
+[04-Dec-2020 08:13:00 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Ing
+[04-Dec-2020 08:13:00 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Recipes
+[04-Dec-2020 08:13:00 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Ing
+[04-Dec-2020 08:13:00 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Recipes
+[04-Dec-2020 08:13:00 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Ing
+[04-Dec-2020 08:13:00 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Recipes
+[04-Dec-2020 08:13:00 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Ing
+[04-Dec-2020 08:13:00 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Recipes
+[04-Dec-2020 08:13:00 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Ing
+[04-Dec-2020 08:13:00 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:00 UTC] Query Recipes
+[04-Dec-2020 08:13:00 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Ing
+[04-Dec-2020 08:13:01 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Recipes
+[04-Dec-2020 08:13:01 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Ing
+[04-Dec-2020 08:13:01 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Recipes
+[04-Dec-2020 08:13:01 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Ing
+[04-Dec-2020 08:13:01 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Recipes
+[04-Dec-2020 08:13:01 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Ing
+[04-Dec-2020 08:13:01 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Recipes
+[04-Dec-2020 08:13:01 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Ing
+[04-Dec-2020 08:13:01 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Recipes
+[04-Dec-2020 08:13:01 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:01 UTC] Query Ing
+[04-Dec-2020 08:13:01 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Recipes
+[04-Dec-2020 08:13:02 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Ing
+[04-Dec-2020 08:13:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Recipes
+[04-Dec-2020 08:13:02 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Ing
+[04-Dec-2020 08:13:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Recipes
+[04-Dec-2020 08:13:02 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Ing
+[04-Dec-2020 08:13:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Recipes
+[04-Dec-2020 08:13:02 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Ing
+[04-Dec-2020 08:13:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Recipes
+[04-Dec-2020 08:13:02 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Ing
+[04-Dec-2020 08:13:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Recipes
+[04-Dec-2020 08:13:02 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:02 UTC] Query Ing
+[04-Dec-2020 08:13:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Recipes
+[04-Dec-2020 08:13:03 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Ing
+[04-Dec-2020 08:13:03 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Recipes
+[04-Dec-2020 08:13:03 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Ing
+[04-Dec-2020 08:13:03 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Recipes
+[04-Dec-2020 08:13:03 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Ing
+[04-Dec-2020 08:13:03 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Recipes
+[04-Dec-2020 08:13:03 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Ing
+[04-Dec-2020 08:13:03 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Recipes
+[04-Dec-2020 08:13:03 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Ing
+[04-Dec-2020 08:13:03 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:03 UTC] Query Recipes
+[04-Dec-2020 08:13:03 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Ing
+[04-Dec-2020 08:13:04 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Recipes
+[04-Dec-2020 08:13:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Ing
+[04-Dec-2020 08:13:04 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Recipes
+[04-Dec-2020 08:13:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Ing
+[04-Dec-2020 08:13:04 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Recipes
+[04-Dec-2020 08:13:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Ing
+[04-Dec-2020 08:13:04 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Recipes
+[04-Dec-2020 08:13:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Ing
+[04-Dec-2020 08:13:04 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Recipes
+[04-Dec-2020 08:13:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Ing
+[04-Dec-2020 08:13:04 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:04 UTC] Query Recipes
+[04-Dec-2020 08:13:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Ing
+[04-Dec-2020 08:13:05 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Recipes
+[04-Dec-2020 08:13:05 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Ing
+[04-Dec-2020 08:13:05 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Recipes
+[04-Dec-2020 08:13:05 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Ing
+[04-Dec-2020 08:13:05 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Recipes
+[04-Dec-2020 08:13:05 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Ing
+[04-Dec-2020 08:13:05 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Recipes
+[04-Dec-2020 08:13:05 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Ing
+[04-Dec-2020 08:13:05 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Recipes
+[04-Dec-2020 08:13:05 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:05 UTC] Query Ing
+[04-Dec-2020 08:13:05 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Recipes
+[04-Dec-2020 08:13:06 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Ing
+[04-Dec-2020 08:13:06 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Recipes
+[04-Dec-2020 08:13:06 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Ing
+[04-Dec-2020 08:13:06 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Recipes
+[04-Dec-2020 08:13:06 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Ing
+[04-Dec-2020 08:13:06 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Recipes
+[04-Dec-2020 08:13:06 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Ing
+[04-Dec-2020 08:13:06 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Recipes
+[04-Dec-2020 08:13:06 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Ing
+[04-Dec-2020 08:13:06 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Recipes
+[04-Dec-2020 08:13:06 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:06 UTC] Query Ing
+[04-Dec-2020 08:13:06 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Recipes
+[04-Dec-2020 08:13:07 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Ing
+[04-Dec-2020 08:13:07 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Recipes
+[04-Dec-2020 08:13:07 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Ing
+[04-Dec-2020 08:13:07 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Recipes
+[04-Dec-2020 08:13:07 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Ing
+[04-Dec-2020 08:13:07 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Recipes
+[04-Dec-2020 08:13:07 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Ing
+[04-Dec-2020 08:13:07 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Recipes
+[04-Dec-2020 08:13:07 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Ing
+[04-Dec-2020 08:13:07 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:07 UTC] Query Recipes
+[04-Dec-2020 08:13:07 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Ing
+[04-Dec-2020 08:13:08 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Recipes
+[04-Dec-2020 08:13:08 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Ing
+[04-Dec-2020 08:13:08 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Recipes
+[04-Dec-2020 08:13:08 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Ing
+[04-Dec-2020 08:13:08 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Recipes
+[04-Dec-2020 08:13:08 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Ing
+[04-Dec-2020 08:13:08 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Recipes
+[04-Dec-2020 08:13:08 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Ing
+[04-Dec-2020 08:13:08 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Recipes
+[04-Dec-2020 08:13:08 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Ing
+[04-Dec-2020 08:13:08 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:08 UTC] Query Recipes
+[04-Dec-2020 08:13:08 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Ing
+[04-Dec-2020 08:13:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Recipes
+[04-Dec-2020 08:13:09 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Ing
+[04-Dec-2020 08:13:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Recipes
+[04-Dec-2020 08:13:09 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Ing
+[04-Dec-2020 08:13:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Recipes
+[04-Dec-2020 08:13:09 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Ing
+[04-Dec-2020 08:13:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Recipes
+[04-Dec-2020 08:13:09 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Ing
+[04-Dec-2020 08:13:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Recipes
+[04-Dec-2020 08:13:09 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:09 UTC] Query Ing
+[04-Dec-2020 08:13:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Recipes
+[04-Dec-2020 08:13:10 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Ing
+[04-Dec-2020 08:13:10 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Recipes
+[04-Dec-2020 08:13:10 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Ing
+[04-Dec-2020 08:13:10 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Recipes
+[04-Dec-2020 08:13:10 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Ing
+[04-Dec-2020 08:13:10 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Recipes
+[04-Dec-2020 08:13:10 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Ing
+[04-Dec-2020 08:13:10 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Recipes
+[04-Dec-2020 08:13:10 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Ing
+[04-Dec-2020 08:13:10 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Recipes
+[04-Dec-2020 08:13:10 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:10 UTC] Query Ing
+[04-Dec-2020 08:13:10 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Recipes
+[04-Dec-2020 08:13:11 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Ing
+[04-Dec-2020 08:13:11 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Recipes
+[04-Dec-2020 08:13:11 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Ing
+[04-Dec-2020 08:13:11 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Recipes
+[04-Dec-2020 08:13:11 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Ing
+[04-Dec-2020 08:13:11 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Recipes
+[04-Dec-2020 08:13:11 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Ing
+[04-Dec-2020 08:13:11 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Recipes
+[04-Dec-2020 08:13:11 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Ing
+[04-Dec-2020 08:13:11 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:11 UTC] Query Recipes
+[04-Dec-2020 08:13:11 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Ing
+[04-Dec-2020 08:13:12 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Recipes
+[04-Dec-2020 08:13:12 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Ing
+[04-Dec-2020 08:13:12 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Recipes
+[04-Dec-2020 08:13:12 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Ing
+[04-Dec-2020 08:13:12 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Recipes
+[04-Dec-2020 08:13:12 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Ing
+[04-Dec-2020 08:13:12 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Recipes
+[04-Dec-2020 08:13:12 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Ing
+[04-Dec-2020 08:13:12 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Recipes
+[04-Dec-2020 08:13:12 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:12 UTC] Query Ing
+[04-Dec-2020 08:13:12 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Recipes
+[04-Dec-2020 08:13:13 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Ing
+[04-Dec-2020 08:13:13 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Recipes
+[04-Dec-2020 08:13:13 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Ing
+[04-Dec-2020 08:13:13 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Recipes
+[04-Dec-2020 08:13:13 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Ing
+[04-Dec-2020 08:13:13 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Recipes
+[04-Dec-2020 08:13:13 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Ing
+[04-Dec-2020 08:13:13 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Recipes
+[04-Dec-2020 08:13:13 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Ing
+[04-Dec-2020 08:13:13 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Recipes
+[04-Dec-2020 08:13:13 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:13 UTC] Query Ing
+[04-Dec-2020 08:13:13 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Recipes
+[04-Dec-2020 08:13:14 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Ing
+[04-Dec-2020 08:13:14 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Recipes
+[04-Dec-2020 08:13:14 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Ing
+[04-Dec-2020 08:13:14 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Recipes
+[04-Dec-2020 08:13:14 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Ing
+[04-Dec-2020 08:13:14 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Recipes
+[04-Dec-2020 08:13:14 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Ing
+[04-Dec-2020 08:13:14 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Recipes
+[04-Dec-2020 08:13:14 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Ing
+[04-Dec-2020 08:13:14 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:14 UTC] Query Recipes
+[04-Dec-2020 08:13:14 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:13:15 UTC] Query Ing
+[04-Dec-2020 08:13:15 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:13:15 UTC] Query Recipes
+[04-Dec-2020 08:13:15 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:17:24 UTC] Query Recipes
+[04-Dec-2020 08:17:24 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:17:27 UTC] Query Ing
+[04-Dec-2020 08:17:27 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:17:27 UTC] Query Recipes
+[04-Dec-2020 08:17:27 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:23:02 UTC] Query Ing
+[04-Dec-2020 08:23:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:25:09 UTC] Query Ing
+[04-Dec-2020 08:25:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:25:19 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '30', '100')
+[04-Dec-2020 08:25:19 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '30', '100')
+[04-Dec-2020 08:25:19 UTC] Query Recipes
+[04-Dec-2020 08:25:19 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:25:20 UTC] Query Ing
+[04-Dec-2020 08:25:20 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:27:52 UTC] Query Ing
+[04-Dec-2020 08:27:52 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:28:01 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '30', '100')
+[04-Dec-2020 08:28:01 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '30', '100')
+[04-Dec-2020 08:28:01 UTC] Query Recipes
+[04-Dec-2020 08:28:01 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:29:23 UTC] Query Recipes
+[04-Dec-2020 08:29:23 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:29:24 UTC] Query Recipes
+[04-Dec-2020 08:29:24 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:29:25 UTC] Query Recipes
+[04-Dec-2020 08:29:25 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:30:29 UTC] Query Ing
+[04-Dec-2020 08:30:29 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:30:29 UTC] Query Recipes
+[04-Dec-2020 08:30:29 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:30:36 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '28', '100')
+[04-Dec-2020 08:30:36 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('foo', NULL, '28', '100')
+[04-Dec-2020 08:30:36 UTC] Query Recipes
+[04-Dec-2020 08:30:36 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:30:41 UTC] Query Ing
+[04-Dec-2020 08:30:41 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:30:41 UTC] Query Recipes
+[04-Dec-2020 08:30:41 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:30:43 UTC] Made it !!!
+[04-Dec-2020 08:30:43 UTC] Query Recipes
+[04-Dec-2020 08:30:43 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:32:43 UTC] Query Ing
+[04-Dec-2020 08:32:43 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:32:43 UTC] Query Recipes
+[04-Dec-2020 08:32:43 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:32:45 UTC] Made it !!!
+[04-Dec-2020 08:32:45 UTC] Query Recipes
+[04-Dec-2020 08:32:45 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:37:32 UTC] Query Ing
+[04-Dec-2020 08:37:32 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:37:32 UTC] Query Recipes
+[04-Dec-2020 08:37:32 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:37:34 UTC] Made it !!!
+[04-Dec-2020 08:37:35 UTC] Query Recipes
+[04-Dec-2020 08:37:35 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:37:49 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('Orange Juice', NULL, '30', '9000')
+[04-Dec-2020 08:37:49 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('Orange Juice', NULL, '30', '9000')
+[04-Dec-2020 08:37:49 UTC] Query Recipes
+[04-Dec-2020 08:37:49 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:37:57 UTC] Query Recipes
+[04-Dec-2020 08:37:57 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:38:06 UTC] Query Ing
+[04-Dec-2020 08:38:06 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:38:09 UTC] Query Ing
+[04-Dec-2020 08:38:09 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:38:12 UTC] Query Ing
+[04-Dec-2020 08:38:12 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:38:12 UTC] Query Recipes
+[04-Dec-2020 08:38:12 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:38:18 UTC] Query Recipes
+[04-Dec-2020 08:38:18 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:40:20 UTC] Query Recipes
+[04-Dec-2020 08:40:20 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:40:20 UTC] Query Ing
+[04-Dec-2020 08:40:20 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:40:48 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pog', NULL, '32', '1000'),
+     '30', '900')
+[04-Dec-2020 08:40:48 UTC] Query Recipes
+[04-Dec-2020 08:40:48 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:40:54 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pog', NULL, '32', '1000'),
+     '30', '900')
+[04-Dec-2020 08:40:54 UTC] Query Recipes
+[04-Dec-2020 08:40:54 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:41:01 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pog', NULL, '32', '1000'),
+     '30', '900')
+[04-Dec-2020 08:41:01 UTC] Query Recipes
+[04-Dec-2020 08:41:01 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:41:06 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pog', NULL, '32', '1000'),
+     '30', '900')
+[04-Dec-2020 08:41:06 UTC] Query Recipes
+[04-Dec-2020 08:41:06 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:41:28 UTC] Query Recipes
+[04-Dec-2020 08:41:28 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:41:28 UTC] Query Ing
+[04-Dec-2020 08:41:28 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:41:38 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('Orange Juice', NULL, '30', '1000'),
+     '32', '1')
+[04-Dec-2020 08:41:39 UTC] Query Recipes
+[04-Dec-2020 08:41:39 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:41:45 UTC] Query Ing
+[04-Dec-2020 08:41:45 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:41:45 UTC] Query Recipes
+[04-Dec-2020 08:41:45 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:43:04 UTC] Query Ing
+[04-Dec-2020 08:43:04 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:43:04 UTC] Query Recipes
+[04-Dec-2020 08:43:04 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:43:27 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pog', NULL, '32', '1'),
+     '30', '3')
+[04-Dec-2020 08:43:27 UTC] Query Recipes
+[04-Dec-2020 08:43:27 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:45:08 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 86
+[04-Dec-2020 08:45:08 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 86
+[04-Dec-2020 08:45:18 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 86
+[04-Dec-2020 08:45:18 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 86
+[04-Dec-2020 08:45:44 UTC] Query Ing
+[04-Dec-2020 08:45:44 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:45:44 UTC] Query Recipes
+[04-Dec-2020 08:45:44 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:45:58 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pog', NULL, '32', '1'),'30', '3')
+[04-Dec-2020 08:45:58 UTC] Query Recipes
+[04-Dec-2020 08:45:58 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:46:55 UTC] Query Recipes
+[04-Dec-2020 08:46:55 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:46:55 UTC] Query Ing
+[04-Dec-2020 08:46:55 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:47:04 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pog', NULL, '32', '1','30', '3')
+[04-Dec-2020 08:47:04 UTC] Query Recipes
+[04-Dec-2020 08:47:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:47:10 UTC] Query Recipes
+[04-Dec-2020 08:47:10 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:48:21 UTC] Query Ing
+[04-Dec-2020 08:48:21 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:48:21 UTC] Query Recipes
+[04-Dec-2020 08:48:21 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:48:40 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('poggerstiem', NULL, '32', '1','32', '3', '30', '4')
+[04-Dec-2020 08:48:40 UTC] Query Recipes
+[04-Dec-2020 08:48:40 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:48:43 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('poggerstiem', NULL, '32', '1','32', '3', '30', '4')
+[04-Dec-2020 08:48:43 UTC] Query Recipes
+[04-Dec-2020 08:48:43 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:50:34 UTC] Query Ing
+[04-Dec-2020 08:50:34 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:50:34 UTC] Query Recipes
+[04-Dec-2020 08:50:34 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:50:46 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount, Ingredient3, I3Amount)VALUES('pogpogpog', NULL, '32', '1','32', '2', '32', '3')
+[04-Dec-2020 08:50:46 UTC] Query Recipes
+[04-Dec-2020 08:50:46 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:50:55 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount, Ingredient3, I3Amount, Ingredient4, I4Amount)VALUES('pogpogpogpog', NULL, '32', '1','32', '2', '32', '3', '32', '4')
+[04-Dec-2020 08:50:55 UTC] Query Recipes
+[04-Dec-2020 08:50:55 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:51:01 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('pogpog', NULL, '32', '1','32', '2')
+[04-Dec-2020 08:51:02 UTC] Query Recipes
+[04-Dec-2020 08:51:02 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:51:07 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('pog', NULL, '32', '1')
+[04-Dec-2020 08:51:07 UTC] Query Recipes
+[04-Dec-2020 08:51:07 UTC] Query successful 4 rows returned
+[04-Dec-2020 08:51:09 UTC] Query Recipes
+[04-Dec-2020 08:51:09 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:51:09 UTC] Query Recipes
+[04-Dec-2020 08:51:09 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:51:10 UTC] Query Recipes
+[04-Dec-2020 08:51:10 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:51:11 UTC] Query Recipes
+[04-Dec-2020 08:51:11 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:51:34 UTC] Query Ing
+[04-Dec-2020 08:51:34 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:51:37 UTC] Query Ing
+[04-Dec-2020 08:51:37 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:51:38 UTC] Query Ing
+[04-Dec-2020 08:51:38 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:52:04 UTC] TO ADD TO DB: Soda Water : 1000 : 1
+[04-Dec-2020 08:52:04 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Soda Water', NULL, '1000', '1')
+[04-Dec-2020 08:52:04 UTC] Query Ing
+[04-Dec-2020 08:52:04 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:52:14 UTC] TO ADD TO DB: Vodka : 1000 : 2
+[04-Dec-2020 08:52:14 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Vodka', NULL, '1000', '2')
+[04-Dec-2020 08:52:14 UTC] Query Ing
+[04-Dec-2020 08:52:14 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:52:29 UTC] TO ADD TO DB: Cola : 1000 : 3
+[04-Dec-2020 08:52:29 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Cola', NULL, '1000', '3')
+[04-Dec-2020 08:52:29 UTC] Query Ing
+[04-Dec-2020 08:52:29 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:52:38 UTC] TO ADD TO DB: Whiskey : 1000 : 4
+[04-Dec-2020 08:52:38 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Whiskey', NULL, '1000', '4')
+[04-Dec-2020 08:52:38 UTC] Query Ing
+[04-Dec-2020 08:52:38 UTC] Query successful 4 rows returned
+[04-Dec-2020 08:53:08 UTC] TO ADD TO DB: Apple Juice : 1000 : 6
+[04-Dec-2020 08:53:08 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Apple Juice', NULL, '1000', '6')
+[04-Dec-2020 08:53:08 UTC] Query Ing
+[04-Dec-2020 08:53:08 UTC] Query successful 5 rows returned
+[04-Dec-2020 08:53:15 UTC] TO ADD TO DB: Apple : 1000 : 6
+[04-Dec-2020 08:53:15 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Apple', NULL, '1000', '6')
+[04-Dec-2020 08:53:15 UTC] Query Ing
+[04-Dec-2020 08:53:15 UTC] Query successful 6 rows returned
+[04-Dec-2020 08:53:29 UTC] TO ADD TO DB: 4loco : 1000 : 9
+[04-Dec-2020 08:53:29 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('4loco', NULL, '1000', '9')
+[04-Dec-2020 08:53:29 UTC] Query Ing
+[04-Dec-2020 08:53:29 UTC] Query successful 7 rows returned
+[04-Dec-2020 08:53:51 UTC] TO ADD TO DB: Brown Liquor : 1000 : 7
+[04-Dec-2020 08:53:51 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Brown Liquor', NULL, '1000', '7')
+[04-Dec-2020 08:53:51 UTC] Query Ing
+[04-Dec-2020 08:53:52 UTC] Query successful 8 rows returned
+[04-Dec-2020 08:54:00 UTC] TO ADD TO DB: Brown : 1000 : 7
+[04-Dec-2020 08:54:00 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Brown', NULL, '1000', '7')
+[04-Dec-2020 08:54:00 UTC] Query Ing
+[04-Dec-2020 08:54:00 UTC] Query successful 9 rows returned
+[04-Dec-2020 08:54:05 UTC] UPDATE Ingredients SET QUANTITY = NULL, Tank_ID = NULL WHERE Ingredients.ID = 41
+[04-Dec-2020 08:54:05 UTC] Query Ing
+[04-Dec-2020 08:54:05 UTC] Query successful 9 rows returned
+[04-Dec-2020 08:54:07 UTC] Query Ing
+[04-Dec-2020 08:54:07 UTC] Query successful 8 rows returned
+[04-Dec-2020 08:54:08 UTC] Query Ing
+[04-Dec-2020 08:54:08 UTC] Query successful 7 rows returned
+[04-Dec-2020 08:54:12 UTC] Query Ing
+[04-Dec-2020 08:54:12 UTC] Query successful 6 rows returned
+[04-Dec-2020 08:54:15 UTC] Query Ing
+[04-Dec-2020 08:54:15 UTC] Query successful 5 rows returned
+[04-Dec-2020 08:54:17 UTC] Query Ing
+[04-Dec-2020 08:54:17 UTC] Query successful 4 rows returned
+[04-Dec-2020 08:54:24 UTC] Query Ing
+[04-Dec-2020 08:54:24 UTC] Query successful 4 rows returned
+[04-Dec-2020 08:54:24 UTC] Query Recipes
+[04-Dec-2020 08:54:24 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:54:36 UTC] Query Recipes
+[04-Dec-2020 08:54:36 UTC] Query successful 0 rows returned
+[04-Dec-2020 08:54:36 UTC] Query Ing
+[04-Dec-2020 08:54:36 UTC] Query successful 4 rows returned
+[04-Dec-2020 08:55:08 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('Rye & Coke', NULL, '36', '50','35', '150')
+[04-Dec-2020 08:55:08 UTC] Query Recipes
+[04-Dec-2020 08:55:08 UTC] Query successful 1 rows returned
+[04-Dec-2020 08:55:22 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('Vodka Soda', NULL, '34', '50','33', '150')
+[04-Dec-2020 08:55:22 UTC] Query Recipes
+[04-Dec-2020 08:55:22 UTC] Query successful 2 rows returned
+[04-Dec-2020 08:55:45 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('Whiskey OTR', NULL, '36', '100')
+[04-Dec-2020 08:55:45 UTC] Query Recipes
+[04-Dec-2020 08:55:45 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:55:54 UTC] Query Ing
+[04-Dec-2020 08:55:54 UTC] Query successful 4 rows returned
+[04-Dec-2020 08:56:09 UTC] not loaded.....
+[04-Dec-2020 08:56:09 UTC] TO ADD TO DB: OJ : NULL : NULL
+[04-Dec-2020 08:56:09 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('OJ', NULL, NULL, NULL)
+[04-Dec-2020 08:56:10 UTC] Query Ing
+[04-Dec-2020 08:56:10 UTC] Query successful 5 rows returned
+[04-Dec-2020 08:56:22 UTC] not loaded.....
+[04-Dec-2020 08:56:22 UTC] TO ADD TO DB: Ice Water : NULL : NULL
+[04-Dec-2020 08:56:22 UTC] INSERT INTO Ingredients (NAME, ID, QUANTITY, Tank_ID) VALUES('Ice Water', NULL, NULL, NULL)
+[04-Dec-2020 08:56:22 UTC] Query Ing
+[04-Dec-2020 08:56:22 UTC] Query successful 6 rows returned
+[04-Dec-2020 08:56:28 UTC] Query Recipes
+[04-Dec-2020 08:56:28 UTC] Query successful 3 rows returned
+[04-Dec-2020 08:56:28 UTC] Query Ing
+[04-Dec-2020 08:56:28 UTC] Query successful 6 rows returned
+[04-Dec-2020 08:56:38 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount) VALUES('Orange Juice', NULL, '42', '500')
+[04-Dec-2020 08:56:38 UTC] Query Recipes
+[04-Dec-2020 08:56:38 UTC] Query successful 4 rows returned
+[04-Dec-2020 08:57:04 UTC] INSERT INTO Recipe (Name, id, Ingredient1, I1Amount, Ingredient2, I2Amount) VALUES('Watered Down OJ', NULL, '42', '250','43', '250')
+[04-Dec-2020 08:57:04 UTC] Query Recipes
+[04-Dec-2020 08:57:04 UTC] Query successful 5 rows returned
+[04-Dec-2020 09:36:35 UTC] Query Ing
+[04-Dec-2020 09:36:35 UTC] Query successful 7 rows returned
+[04-Dec-2020 09:48:14 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 64
+[04-Dec-2020 09:49:23 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 64
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:08 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:54:29 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 09:56:15 UTC] PHP Warning:  A non-numeric value encountered in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:03:21 UTC] 
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 58
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:04:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:11:35 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 61
+[04-Dec-2020 10:18:28 UTC] Rye & Coke
+[04-Dec-2020 10:18:28 UTC] 13
+[04-Dec-2020 10:18:28 UTC] 36
+[04-Dec-2020 10:18:28 UTC] 35
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 50
+[04-Dec-2020 10:18:28 UTC] 150
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] Vodka Soda
+[04-Dec-2020 10:18:28 UTC] 14
+[04-Dec-2020 10:18:28 UTC] 34
+[04-Dec-2020 10:18:28 UTC] 33
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 50
+[04-Dec-2020 10:18:28 UTC] 150
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] Whiskey OTR
+[04-Dec-2020 10:18:28 UTC] 15
+[04-Dec-2020 10:18:28 UTC] 36
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 100
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] Orange Juice
+[04-Dec-2020 10:18:28 UTC] 16
+[04-Dec-2020 10:18:28 UTC] 42
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 500
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] Watered Down OJ
+[04-Dec-2020 10:18:28 UTC] 17
+[04-Dec-2020 10:18:28 UTC] 42
+[04-Dec-2020 10:18:28 UTC] 43
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 250
+[04-Dec-2020 10:18:28 UTC] 250
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] Gin & Juice
+[04-Dec-2020 10:18:28 UTC] 18
+[04-Dec-2020 10:18:28 UTC] 44
+[04-Dec-2020 10:18:28 UTC] 42
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 50
+[04-Dec-2020 10:18:28 UTC] 200
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:18:28 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:20:41 UTC] 
+[04-Dec-2020 10:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function val() in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php:60
+Stack trace:
+#0 /home/lcarroll/public_html/cmpe2500/capstone/webservice.php(291): QueryGetAvailableRecipes()
+#1 {main}
+  thrown in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 60
+[04-Dec-2020 10:25:20 UTC] col : Name val : Rye & Coke
+[04-Dec-2020 10:25:20 UTC] col : id val : 13
+[04-Dec-2020 10:25:20 UTC] col : Ingredient1 val : 36
+[04-Dec-2020 10:25:20 UTC] col : Ingredient2 val : 35
+[04-Dec-2020 10:25:20 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:25:20 UTC] col : I1Amount val : 50
+[04-Dec-2020 10:25:20 UTC] col : I2Amount val : 150
+[04-Dec-2020 10:25:20 UTC] col : I3Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I4Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : Name val : Vodka Soda
+[04-Dec-2020 10:25:20 UTC] col : id val : 14
+[04-Dec-2020 10:25:20 UTC] col : Ingredient1 val : 34
+[04-Dec-2020 10:25:20 UTC] col : Ingredient2 val : 33
+[04-Dec-2020 10:25:20 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:25:20 UTC] col : I1Amount val : 50
+[04-Dec-2020 10:25:20 UTC] col : I2Amount val : 150
+[04-Dec-2020 10:25:20 UTC] col : I3Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I4Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : Name val : Whiskey OTR
+[04-Dec-2020 10:25:20 UTC] col : id val : 15
+[04-Dec-2020 10:25:20 UTC] col : Ingredient1 val : 36
+[04-Dec-2020 10:25:20 UTC] col : Ingredient2 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:25:20 UTC] col : I1Amount val : 100
+[04-Dec-2020 10:25:20 UTC] col : I2Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I3Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I4Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : Name val : Orange Juice
+[04-Dec-2020 10:25:20 UTC] col : id val : 16
+[04-Dec-2020 10:25:20 UTC] col : Ingredient1 val : 42
+[04-Dec-2020 10:25:20 UTC] col : Ingredient2 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:25:20 UTC] col : I1Amount val : 500
+[04-Dec-2020 10:25:20 UTC] col : I2Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I3Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I4Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : Name val : Watered Down OJ
+[04-Dec-2020 10:25:20 UTC] col : id val : 17
+[04-Dec-2020 10:25:20 UTC] col : Ingredient1 val : 42
+[04-Dec-2020 10:25:20 UTC] col : Ingredient2 val : 43
+[04-Dec-2020 10:25:20 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:25:20 UTC] col : I1Amount val : 250
+[04-Dec-2020 10:25:20 UTC] col : I2Amount val : 250
+[04-Dec-2020 10:25:20 UTC] col : I3Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I4Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : Name val : Gin & Juice
+[04-Dec-2020 10:25:20 UTC] col : id val : 18
+[04-Dec-2020 10:25:20 UTC] col : Ingredient1 val : 44
+[04-Dec-2020 10:25:20 UTC] col : Ingredient2 val : 42
+[04-Dec-2020 10:25:20 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:25:20 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:25:20 UTC] col : I1Amount val : 50
+[04-Dec-2020 10:25:20 UTC] col : I2Amount val : 200
+[04-Dec-2020 10:25:20 UTC] col : I3Amount val : 
+[04-Dec-2020 10:25:20 UTC] col : I4Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : Name val : Rye & Coke
+[04-Dec-2020 10:35:27 UTC] col : id val : 13
+[04-Dec-2020 10:35:27 UTC] col : Ingredient1 val : 36
+[04-Dec-2020 10:35:27 UTC] col : Ingredient2 val : 35
+[04-Dec-2020 10:35:27 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:35:27 UTC] col : I1Amount val : 50
+[04-Dec-2020 10:35:27 UTC] col : I2Amount val : 150
+[04-Dec-2020 10:35:27 UTC] col : I3Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I4Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : Name val : Vodka Soda
+[04-Dec-2020 10:35:27 UTC] col : id val : 14
+[04-Dec-2020 10:35:27 UTC] col : Ingredient1 val : 34
+[04-Dec-2020 10:35:27 UTC] col : Ingredient2 val : 33
+[04-Dec-2020 10:35:27 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:35:27 UTC] col : I1Amount val : 50
+[04-Dec-2020 10:35:27 UTC] col : I2Amount val : 150
+[04-Dec-2020 10:35:27 UTC] col : I3Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I4Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : Name val : Whiskey OTR
+[04-Dec-2020 10:35:27 UTC] col : id val : 15
+[04-Dec-2020 10:35:27 UTC] col : Ingredient1 val : 36
+[04-Dec-2020 10:35:27 UTC] col : Ingredient2 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:35:27 UTC] col : I1Amount val : 100
+[04-Dec-2020 10:35:27 UTC] col : I2Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I3Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I4Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : Name val : Orange Juice
+[04-Dec-2020 10:35:27 UTC] col : id val : 16
+[04-Dec-2020 10:35:27 UTC] col : Ingredient1 val : 42
+[04-Dec-2020 10:35:27 UTC] col : Ingredient2 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:35:27 UTC] col : I1Amount val : 500
+[04-Dec-2020 10:35:27 UTC] col : I2Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I3Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I4Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : Name val : Watered Down OJ
+[04-Dec-2020 10:35:27 UTC] col : id val : 17
+[04-Dec-2020 10:35:27 UTC] col : Ingredient1 val : 42
+[04-Dec-2020 10:35:27 UTC] col : Ingredient2 val : 43
+[04-Dec-2020 10:35:27 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:35:27 UTC] col : I1Amount val : 250
+[04-Dec-2020 10:35:27 UTC] col : I2Amount val : 250
+[04-Dec-2020 10:35:27 UTC] col : I3Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I4Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : Name val : Gin & Juice
+[04-Dec-2020 10:35:27 UTC] col : id val : 18
+[04-Dec-2020 10:35:27 UTC] col : Ingredient1 val : 44
+[04-Dec-2020 10:35:27 UTC] col : Ingredient2 val : 42
+[04-Dec-2020 10:35:27 UTC] col : Ingredient3 val : 
+[04-Dec-2020 10:35:27 UTC] col : Ingredient4 val : 
+[04-Dec-2020 10:35:27 UTC] col : I1Amount val : 50
+[04-Dec-2020 10:35:27 UTC] col : I2Amount val : 200
+[04-Dec-2020 10:35:27 UTC] col : I3Amount val : 
+[04-Dec-2020 10:35:27 UTC] col : I4Amount val : 
+[10-Dec-2020 06:19:41 UTC] Query Ing
+[10-Dec-2020 06:19:41 UTC] Query select ID, NAME, QUANTITYfrom Ingredients  failed
+[10-Dec-2020 07:04:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 105
+[10-Dec-2020 07:04:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 105
+[10-Dec-2020 07:04:40 UTC] Query Recipes
+[10-Dec-2020 07:04:40 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON 1 = RecipeIngredients.RecipeID
+[10-Dec-2020 07:04:40 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php:104
+Stack trace:
+#0 /home/lcarroll/public_html/cmpe2500/capstone/webservice.php(314): QueryGetAllRecipes()
+#1 {main}
+  thrown in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 104
+[10-Dec-2020 07:04:40 UTC] Query Ing
+[10-Dec-2020 07:04:40 UTC] Query successful 4 rows returned
+[10-Dec-2020 07:06:14 UTC] Query Ing
+[10-Dec-2020 07:06:14 UTC] Query successful 4 rows returned
+[10-Dec-2020 07:06:14 UTC] Query Recipes
+[10-Dec-2020 07:06:14 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON 1 = RecipeIngredients.RecipeID
+[10-Dec-2020 07:06:14 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON 2 = RecipeIngredients.RecipeID
+[10-Dec-2020 07:06:14 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON 3 = RecipeIngredients.RecipeID
+[10-Dec-2020 07:06:14 UTC] Query successful 3 rows returned
+[10-Dec-2020 07:08:44 UTC] Query Recipes
+[10-Dec-2020 07:08:44 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON 1 = RecipeIngredients.RecipeID
+[10-Dec-2020 07:08:44 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON 2 = RecipeIngredients.RecipeID
+[10-Dec-2020 07:08:44 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON 3 = RecipeIngredients.RecipeID
+[10-Dec-2020 07:08:44 UTC] Query successful 3 rows returned
+[10-Dec-2020 07:08:44 UTC] Query Ing
+[10-Dec-2020 07:08:44 UTC] Query successful 4 rows returned
+[10-Dec-2020 07:13:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 117
+[10-Dec-2020 07:13:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 117
+[10-Dec-2020 07:14:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 117
+[10-Dec-2020 07:14:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 117
+[10-Dec-2020 07:14:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 117
+[10-Dec-2020 07:14:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 117
+[10-Dec-2020 09:26:11 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:26:11 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:26:25 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:26:25 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:27:51 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:27:51 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:29:01 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:29:01 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 154
+[10-Dec-2020 09:30:38 UTC] Query Recipes
+[10-Dec-2020 09:30:38 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 09:30:38 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 2 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 09:30:38 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 118
+[10-Dec-2020 09:30:38 UTC] Query successful 2 rows returned
+[10-Dec-2020 09:30:38 UTC] Query Ing
+[10-Dec-2020 09:30:38 UTC] Query successful 4 rows returned
+[10-Dec-2020 09:30:44 UTC] Query Recipes
+[10-Dec-2020 09:30:44 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 09:30:44 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 118
+[10-Dec-2020 09:30:44 UTC] Query successful 1 rows returned
+[10-Dec-2020 09:30:53 UTC] Query Recipes
+[10-Dec-2020 09:30:53 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 09:30:53 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 118
+[10-Dec-2020 09:30:53 UTC] Query successful 1 rows returned
+[10-Dec-2020 09:34:10 UTC] Query Ing
+[10-Dec-2020 09:34:10 UTC] Query successful 4 rows returned
+[10-Dec-2020 09:34:10 UTC] Query Recipes
+[10-Dec-2020 09:34:10 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 09:34:10 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 118
+[10-Dec-2020 09:34:10 UTC] Query successful 1 rows returned
+[10-Dec-2020 09:34:20 UTC] Insert Recipe: FAILED:Query Error: INSERT INTO Recipe (Name, ID_PK) VALUES (Whiskey OTR, NULL)
+[10-Dec-2020 09:34:20 UTC] Query Recipes
+[10-Dec-2020 09:34:20 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 09:34:20 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 118
+[10-Dec-2020 09:34:20 UTC] Query successful 1 rows returned
+[10-Dec-2020 10:14:57 UTC] Query Recipes
+[10-Dec-2020 10:14:57 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 10:14:57 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 10:14:57 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 159
+[10-Dec-2020 10:14:57 UTC] Query successful 2 rows returned
+[10-Dec-2020 10:14:59 UTC] Query Tanks
+[10-Dec-2020 10:16:29 UTC] Query Tanks
+[10-Dec-2020 10:16:29 UTC] Query successful 4 rows returned
+[10-Dec-2020 10:27:44 UTC] Query Recipes
+[10-Dec-2020 10:27:44 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 10:27:44 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 10:27:44 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 160
+[10-Dec-2020 10:27:44 UTC] Query successful 2 rows returned
+[10-Dec-2020 10:27:47 UTC] Query Recipes
+[10-Dec-2020 10:27:47 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 10:27:47 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[10-Dec-2020 10:27:47 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 160
+[10-Dec-2020 10:27:47 UTC] Query successful 2 rows returned
+[10-Dec-2020 10:28:18 UTC] Query Ing
+[10-Dec-2020 10:28:18 UTC] Query successful 4 rows returned
+[10-Dec-2020 10:28:35 UTC] TO ADD TO DB: TEST : 999
+[10-Dec-2020 10:28:35 UTC] INSERT INTO Ingredients (NAME, ID_PK, QUANTITY) VALUES('TEST', NULL, '999')
+[10-Dec-2020 10:28:35 UTC] Query Ing
+[10-Dec-2020 10:28:35 UTC] Query successful 5 rows returned
+[10-Dec-2020 10:28:44 UTC] UPDATE Ingredients SET QUANTITY = NULL WHERE Ingredients.ID_PK = 4
+[10-Dec-2020 10:28:44 UTC] Query Ing
+[10-Dec-2020 10:28:44 UTC] Query successful 5 rows returned
+[10-Dec-2020 10:28:55 UTC] Query Tanks
+[10-Dec-2020 10:28:55 UTC] Query successful 4 rows returned
+[10-Dec-2020 10:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function QueryUpdateTanks() in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 423
+[15-Dec-2020 06:02:37 UTC] Query Recipes
+[15-Dec-2020 06:02:37 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:02:37 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:02:37 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /home/lcarroll/public_html/cmpe2500/capstone/webservice.php on line 150
+[15-Dec-2020 06:02:37 UTC] Query successful 2 rows returned
+[15-Dec-2020 06:02:39 UTC] Pouring Drink...
+[15-Dec-2020 06:04:17 UTC] Query Recipes
+[15-Dec-2020 06:04:17 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:04:17 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:04:17 UTC] Query successful 2 rows returned
+[15-Dec-2020 06:04:18 UTC] Pouring Drink...
+[15-Dec-2020 06:04:18 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = 'undefined'
+[15-Dec-2020 06:04:21 UTC] Pouring Drink...
+[15-Dec-2020 06:04:21 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = 'undefined'
+[15-Dec-2020 06:07:42 UTC] Query Recipes
+[15-Dec-2020 06:07:42 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:07:42 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:07:42 UTC] Query successful 2 rows returned
+[15-Dec-2020 06:07:48 UTC] Pouring Drink...
+[15-Dec-2020 06:07:48 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = '5'
+[15-Dec-2020 06:07:48 UTC] select pinOut from Tank WHERE IngredientID = '2'
+[15-Dec-2020 06:08:18 UTC] Pouring Drink...
+[15-Dec-2020 06:08:18 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = '1'
+[15-Dec-2020 06:08:18 UTC] select pinOut from Tank WHERE IngredientID = '1'
+[15-Dec-2020 06:08:18 UTC] select pinOut from Tank WHERE IngredientID = '3'
+[15-Dec-2020 06:09:57 UTC] Query Recipes
+[15-Dec-2020 06:09:57 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:09:57 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:09:57 UTC] Query successful 2 rows returned
+[15-Dec-2020 06:10:00 UTC] Pouring Drink...
+[15-Dec-2020 06:10:00 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = '5'
+[15-Dec-2020 06:10:00 UTC] select pinOut from Tank WHERE IngredientID = '2'
+[15-Dec-2020 06:10:00 UTC] Query select pinOut from Tank WHERE IngredientID = '2' failed
+[15-Dec-2020 06:11:05 UTC] Query Recipes
+[15-Dec-2020 06:11:05 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:11:05 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:11:05 UTC] Query successful 2 rows returned
+[15-Dec-2020 06:11:08 UTC] Pouring Drink...
+[15-Dec-2020 06:11:08 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = '5'
+[15-Dec-2020 06:11:08 UTC] select PinOut from Tank WHERE IngredientID = '2'
+[15-Dec-2020 06:11:08 UTC] Query select PinOut from Tank WHERE IngredientID = '2' failed
+[15-Dec-2020 06:12:01 UTC] Query Recipes
+[15-Dec-2020 06:12:01 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:12:01 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:12:01 UTC] Query successful 2 rows returned
+[15-Dec-2020 06:12:14 UTC] Pouring Drink...
+[15-Dec-2020 06:12:14 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = '5'
+[15-Dec-2020 06:12:14 UTC] select PinOut from Tank WHERE Ingredient_ID = '2'
+[15-Dec-2020 06:12:14 UTC] 
+[15-Dec-2020 06:12:49 UTC] Query Recipes
+[15-Dec-2020 06:12:49 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 1 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:12:49 UTC] select Name from Ingredients INNER JOIN RecipeIngredients ON RecipeIngredients.RecipeID = 5 Where RecipeIngredients.IngredientID = Ingredients.ID_PK
+[15-Dec-2020 06:12:49 UTC] Query successful 2 rows returned
+[15-Dec-2020 06:12:50 UTC] Pouring Drink...
+[15-Dec-2020 06:12:50 UTC] select IngredientID, Quantity from RecipeIngredients WHERE RecipeID = '5'
+[15-Dec-2020 06:12:50 UTC] select PinOut from Tank WHERE Ingredient_ID = '2'
+[15-Dec-2020 06:12:50 UTC] 16
